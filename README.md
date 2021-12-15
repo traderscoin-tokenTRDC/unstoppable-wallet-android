@@ -27,7 +27,3 @@ More at [https://unstoppable.money](https://unstoppable.money)
 
 This wallet is open source and available under the terms of the MIT Lincense.
 # unstoppable-wallet-android
-# unstoppable-wallet-android
-# unstoppable-wallet-android
-# unstoppable-wallet-android
-# unstoppable-wallet-android
